@@ -1,0 +1,76 @@
+body{
+    background-color:lightblue;
+}
+
+#testDataForm{
+    font-weight: bold;
+    font-size: 16pt;
+    color: black;
+
+}
+
+#submitButton{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 20px 10px;
+    border-radius: 4px;
+}
+
+#clearButton{
+    background-color: red;
+    border: none;
+    color: black;
+    font-weight: bold;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    border-radius: 4px;
+}
+
+.card-header,
+.card-body{
+    text-align: center;
+    font-weight: bold;
+}
+
+#high{
+    box-shadow: 0px 0px 15px red;
+    border: 5px solid red;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#low{
+    box-shadow: 0px 0px 15px blue;
+    border: 5px solid blue;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#forecast{
+    box-shadow: 0px 0px 15px green;
+    border: 5px solid green;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#humidity{
+    box-shadow: 0px 0px 15px yellow;
+    border: 5px solid yellow;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
